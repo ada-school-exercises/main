@@ -1,0 +1,6 @@
+[submodule "modulo-1"]
+	path = modulo-1
+	url = https://github.com/ada-school-exercises/modulo-1.git
+[submodule "modulo-2"]
+	path = modulo-2
+	url = https://github.com/ada-school-exercises/modulo-2.git
